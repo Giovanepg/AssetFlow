@@ -17,7 +17,6 @@ O sistema foi desenvolvido utilizando **Python, PySide6 e PostgreSQL**, com inte
   <a href="#funcionalidades">Funcionalidades</a> •
   <a href="#video">Vídeo</a> •
   <a href="#banco">Banco de Dados</a> •
-  <a href="#executar">Como executar</a> •
   <a href="#autor">Autor</a>
 </p>
 
@@ -59,6 +58,9 @@ O sistema foi desenvolvido utilizando **Python, PySide6 e PostgreSQL**, com inte
 # 🎥 Vídeo de demonstração
 
 Confira abaixo uma demonstração completa do **AssetFlow**, mostrando o funcionamento da aplicação e sua integração com o PostgreSQL.
+
+
+https://github.com/user-attachments/assets/ec797d9e-abfc-43fa-9881-37bcc4524b30
 
 
 No vídeo são demonstrados:
